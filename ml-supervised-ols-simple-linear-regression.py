@@ -27,3 +27,6 @@ def generate_coeffecients_intercept(X,Y):
 X = np.array([10,20,30,40,50,60])
 Y = np.array([23,33,43,53,63,73])
 generate_coeffecients_intercept(X,Y)
+
+#Value of m is 1.0 and b is 13.0
+#Predicted value of X=55 would be 68.0

@@ -7,4 +7,4 @@ OLS method can be used in case of Simple Linear Regression i.e. when we have sin
 
 ## Gradient Descent 
 Gradient Descent Algorithm could be applied for multivariate dataset i.e. when we have multiple independent variables and single dependent variable.
--ml-supervised-gradient-descrent-multivariate-linear-regression.py has an example implementation for Gradient Descrent Algorithm. 
+-ml-supervised-gradient-descrent-single-variable.py has an example implementation for Gradient Descrent Algorithm for univariate dataset
